@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\Dokumente\\Diplomarbeit\\Code\\NmeaParser\\NmeaParser\\NmeaParser\\NmeaParser.UnitTests\\NmeaParser.UnitTests.csproj": {}
+  },
+  "projects": {
+    "H:\\Dokumente\\Diplomarbeit\\Code\\NmeaParser\\NmeaParser\\NmeaParser\\NmeaParser.UnitTests\\NmeaParser.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Dokumente\\Diplomarbeit\\Code\\NmeaParser\\NmeaParser\\NmeaParser\\NmeaParser.UnitTests\\NmeaParser.UnitTests.csproj",
+        "projectName": "NmeaParser.UnitTests",
+        "projectPath": "H:\\Dokumente\\Diplomarbeit\\Code\\NmeaParser\\NmeaParser\\NmeaParser\\NmeaParser.UnitTests\\NmeaParser.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\Deltazocker\\.nuget\\packages\\",
+        "outputPath": "H:\\Dokumente\\Diplomarbeit\\Code\\NmeaParser\\NmeaParser\\NmeaParser\\NmeaParser.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Deltazocker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "H:\\Dokumente\\Diplomarbeit\\Code\\NmeaParser\\NmeaParser\\NmeaParser\\NmeaParser\\NmeaParser.csproj": {
+                "projectPath": "H:\\Dokumente\\Diplomarbeit\\Code\\NmeaParser\\NmeaParser\\NmeaParser\\NmeaParser\\NmeaParser.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.8.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.10.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.10.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "H:\\Dokumente\\Diplomarbeit\\Code\\NmeaParser\\NmeaParser\\NmeaParser\\NmeaParser\\NmeaParser.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Dokumente\\Diplomarbeit\\Code\\NmeaParser\\NmeaParser\\NmeaParser\\NmeaParser\\NmeaParser.csproj",
+        "projectName": "NmeaParser",
+        "projectPath": "H:\\Dokumente\\Diplomarbeit\\Code\\NmeaParser\\NmeaParser\\NmeaParser\\NmeaParser\\NmeaParser.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

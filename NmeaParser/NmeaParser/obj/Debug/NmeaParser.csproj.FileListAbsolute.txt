@@ -1,0 +1,6 @@
+H:\Dokumente\Diplomarbeit\Code\NmeaParser\NmeaParser\NmeaParser\NmeaParser\bin\Debug\NmeaParser.dll
+H:\Dokumente\Diplomarbeit\Code\NmeaParser\NmeaParser\NmeaParser\NmeaParser\bin\Debug\NmeaParser.pdb
+H:\Dokumente\Diplomarbeit\Code\NmeaParser\NmeaParser\NmeaParser\NmeaParser\obj\Debug\NmeaParser.csprojAssemblyReference.cache
+H:\Dokumente\Diplomarbeit\Code\NmeaParser\NmeaParser\NmeaParser\NmeaParser\obj\Debug\NmeaParser.csproj.CoreCompileInputs.cache
+H:\Dokumente\Diplomarbeit\Code\NmeaParser\NmeaParser\NmeaParser\NmeaParser\obj\Debug\NmeaParser.dll
+H:\Dokumente\Diplomarbeit\Code\NmeaParser\NmeaParser\NmeaParser\NmeaParser\obj\Debug\NmeaParser.pdb

@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29123.88
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NmeaParser", "NmeaParser\NmeaParser.csproj", "{FC58C3D4-34CB-4CFB-BC5E-E617BC1B5BFA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NmeaParser.UnitTests", "NmeaParser.UnitTests\NmeaParser.UnitTests.csproj", "{B7953FD1-0E2D-4D9F-8389-342D74635516}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FC58C3D4-34CB-4CFB-BC5E-E617BC1B5BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC58C3D4-34CB-4CFB-BC5E-E617BC1B5BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC58C3D4-34CB-4CFB-BC5E-E617BC1B5BFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7953FD1-0E2D-4D9F-8389-342D74635516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7953FD1-0E2D-4D9F-8389-342D74635516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7953FD1-0E2D-4D9F-8389-342D74635516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7953FD1-0E2D-4D9F-8389-342D74635516}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
